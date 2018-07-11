@@ -1,0 +1,274 @@
+html, body{margin:0;
+	font-family:arial;}
+
+body{background-color: #b4b4b4}
+
+.wrapper{
+	width:940px;
+	margin:auto;
+	background-color:#fff;
+}
+
+p {margin:0;
+	font-family:arial;
+	padding:10px 10px;
+	line-height: 150%;}
+
+h1{
+	font-family: 'Lato', sans-serif;
+}
+
+.page-head {    margin-left: 0;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;}
+
+h2{font-size: 24px;
+    margin-left: 18px;
+    margin-top: 18px;
+    margin-bottom: 2px;}
+
+h3{margin: 0 0 0 40px;
+	font-size: 0.95em;
+	}
+
+h4{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin-bottom: 11px;
+	font-size: 20px;
+}
+
+li {font-family: arial;}
+
+nav{
+	height:50px;
+	padding:4px 0;
+}
+
+nav ul{text-align: center;
+	     padding-left: 0;
+}
+
+nav ul li{
+	display: inline-block;
+	width:140px;
+}
+
+nav ul li a{
+	text-decoration:none;
+	color:black;
+}
+
+nav ul li a:hover{
+	color:#DBAE58;
+}
+
+
+header{margin-bottom: -4px;}
+
+
+
+
+
+
+
+/*bottom half*/
+
+footer{
+	margin-top:30px;
+	clear:both;
+	background-color:#4b585c;
+	padding-bottom: 1px;
+	color:#e2e2e2;
+}
+
+.sec-links{width:205px;
+	float:left;
+}
+
+.sec-links ul{
+	padding-top:10px;
+	margin-top: -4px;
+}
+
+.sec-links ul li{
+	padding: 5px 0;
+	list-style: none;
+	font-size: 14px;
+}
+
+.sec-links ul li a{
+	text-decoration: none;
+	color:#e2e2e2;
+	cursor: pointer;
+}
+
+table{
+	margin-top:0px;
+}
+
+.tab1{width:160px;
+	float:left;
+}
+
+.tab2{width:100px;
+	float:left;
+}
+
+
+.sec-hours{
+	width:260px;
+	margin-right: 10px;
+	float:left;
+}
+
+.sec-hours td{
+	font-family:arial;
+	height: 25px;
+	font-size: 14px;
+}
+
+.sec-contact{float:left;
+	width: 465px;
+	padding-bottom: 5px;
+}
+
+.sec-contact h1{margin-bottom:17px;
+}
+
+.sec-contact p {
+	    padding: 5px 0 0 10px;
+			font-size: 14px;
+}
+
+.sec-contact iframe{
+	margin-top:10px;
+	margin-bottom: 20px;
+	padding: 0 12px;
+}
+
+.social{
+	margin: 0 10px;
+	clear: both;
+	height: 40px;
+	padding-top: 1px;
+	 border-top: 1px black solid;
+}
+
+.social ul{
+	height:10px;
+}
+.social ul li{
+	display: block;
+	float: right;
+	padding-left: 12px;}
+
+
+.copyr{
+	padding:19px 0;
+	max-width: none;
+	text-align:center;
+	font-family:arial;
+	color: #e2e2e2;
+	margin-bottom: 20px;
+}
+
+.container{																						/*index page*/
+	height:529px;
+	padding-bottom: 40px;
+}
+
+.front{margin:0}
+
+
+.subs{
+	width: 290px;
+	float: left;
+	margin-left: 17px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.subs h3{margin:0;
+	text-align: center;
+	padding-bottom: 15px;}
+
+.subs li{line-height: 150%;}
+
+.subs a{
+	cursor: pointer;
+}
+
+form{padding:20px 0;														/*contact page*/
+	margin-left:30px;
+	width:430px;
+	margin-right:0;
+	float:left;
+}
+
+form p{padding:10px 0;
+}
+
+.contpic{
+	float: left;
+    width: 430px;
+    padding-top: 43px;
+    padding-left: 42px;
+}
+
+.check{padding:5px 0;}
+
+.formField{float:left;
+}
+
+.formAns{float: right;
+    margin-right: 25px;
+    width: 175px;
+}
+
+.formInput{margin:12px 0;
+	width:180px;}
+
+.clear{clear: both;}
+
+
+.gall-pics{												/*gallery page*/
+	display:inline;
+	padding-left:49px;
+	}
+
+#gallery-main{display:block;
+	margin:auto;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+
+.profile{																		/*staff*/
+	margin:15px;
+	border: 1px black solid;
+	clear:both;
+	height:230px;
+	}
+
+.prof-text{
+	width:80%;
+	float:left;
+}
+
+.prof-pic{
+	width:20%;
+	float :left;
+}
+
+.pp{
+	display:block;
+	margin:auto;
+	padding-top: 36px;
+}
+
+
+.serv{																				/*services*/
+	margin-top:40px;
+}
